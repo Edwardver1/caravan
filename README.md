@@ -11,3 +11,4 @@ In documentation you'll find:
 -quick review (just screens of application to come up with the idea )
 - user guide of 1 page
 - full documentation of what I did and how it works with screenshots 
+- quick review (just screens of application to come up with the idea )
